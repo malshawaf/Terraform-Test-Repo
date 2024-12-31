@@ -10,4 +10,4 @@ This lab has 3 steps :
     -provider.tf
 
 
-    3- Create a Github remote and a .gitignore file then commit the files we need to upload to GitHub
+3- Create a Github remote and a .gitignore file then commit the files we need to upload to GitHub
